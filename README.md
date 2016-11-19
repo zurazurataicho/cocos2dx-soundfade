@@ -1,6 +1,5 @@
 # SoundFade class for cocos2d-x
 
-Usage:
   auto background = Sprite::create("background.png");
 
      ...
